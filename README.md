@@ -1,2 +1,4 @@
 # prog2_linkedlists
-implementing a linked list 
+My own Doubly Linked List implementation in C++. 
+
+Added my own functions and methods for accessing, adding, and removing nodes from the middle, after, head, tail, etc. 
